@@ -1,3 +1,4 @@
+<img width="1859" height="890" alt="螢幕擷取畫面 2026-10-28 02" src="https://github.com/user-attachments/assets/adea523b-9e50-4450-aad5-afc0fcf57587" />
 # AWS
 <img width="1919" height="1030" alt="螢幕擷取畫面 2026-10-13 001629" src="https://github.com/user-attachments/assets/e84594dc-f437-43b5-a6bc-e2d5534cf1a5" />
 <img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/2c2b71da-3b03-4679-b208-565b1e0cd1ce" />
