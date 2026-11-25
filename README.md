@@ -1,3 +1,4 @@
+![Uploading 螢幕擷取畫面 2026-11-25 155336.png…]()
 <img width="1036" height="634" alt="image" src="https://github.com/user-attachments/assets/9d29f7c3-bb12-4889-b387-81c8882beefa" /><img width="1896" height="925" alt="螢幕擷取畫面 2026-11-11 154215" src="https://github.com/user-attachments/assets/9e9488b1-d614-4ddc-9a18-b3f20c281eb4" />
 <img width="1859" height="890" alt="螢幕擷取畫面 2026-10-28 02" src="https://github.com/user-attachments/assets/adea523b-9e50-4450-aad5-afc0fcf57587" />
 # AWS
